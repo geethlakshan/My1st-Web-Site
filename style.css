@@ -6,6 +6,18 @@ body {
   background-repeat: no-repeat;
 }
 
+ footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      margin: 0;
+    }
+
 .header1 {
   background-image: url(https://wallpapercave.com/wp/wp8623049.png);
   background-size: cover;
@@ -235,15 +247,4 @@ form {
 .click {
   color: #0b0c10;
   font-size: 20px;
-}
-
-footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #333;
-      color: white;
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      width: 100%;
 }
